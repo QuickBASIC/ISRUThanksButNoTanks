@@ -1,2 +1,4 @@
 # ISRUThanksButNoTanks
-ModuleManager Script to allow mining and converting ore (with ISRU) without Ore storage tanks. (Adds small amount of storage to all ISRUs.)
+ModuleManager Script to allow mining and converting Ore without storage tanks. It does this by adding a small amount of Ore storage to all ISRUs.
+
+Supports ISRUs in Stockalike Mining Extension by SuicidalInsanity. https://github.com/SuicidalInsanity/Stockalike-Mining-Extension
