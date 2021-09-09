@@ -1,13 +1,20 @@
 
 {
-    "NAME":"ISRU Thanks But No Tanks",
-    "DOWNLOAD":"https://github.com/QuickBASIC/ISRUThanksButNoTanks/releases",
+    "NAME":"ISRU Thanks But No Tanks (QBTT)",
+    "URL": "https://raw.githubusercontent.com/zer0Kerbal/ISRUThanksButNoTanks/master/ISRUThanksButNoTanks.version",
+    "DOWNLOAD": "https://github.com/zer0Kerbal/ISRUThanksButNoTanks/releases/latest",
+    "CHANGE_LOG_URL": "https://raw.githubusercontent.com/zer0Kerbal/ISRUThanksButNoTanks/master/Changelog.cfg",
+    "GITHUB": {
+        "USERNAME": "zer0Kerbal",
+        "REPOSITORY": "ISRUThanksButNoTanks",
+        "ALLOW_PRE_RELEASE": false
+    },
     "VERSION":
     {
         "MAJOR":0,
         "MINOR":1,
         "PATCH":4,
-        "BUILD":1
+        "BUILD":2
     },
      "KSP_VERSION":
     {
@@ -24,7 +31,11 @@
     "KSP_VERSION_MAX":
     {
         "MAJOR":1,
-        "MINOR":4,
+        "MINOR":12,
         "PATCH":99
+    },
+    "INSTALL_LOC": {
+        "NAME": "ISRUThanksButNoTanks",
+        "DIRECTORY": "QuickBASIC\ISRUThanksButNoTanks"
     }
 }
